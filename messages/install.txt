@@ -13,3 +13,6 @@ please see:
 If you find a bug, please report it here:
 
     https://github.com/davidolrik/sublime-rsync-ssh/issues
+
+
+HVIsage version
